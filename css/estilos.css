@@ -1,0 +1,62 @@
+body {
+background-color: rgb(255, 255, 255);
+    color: black;
+    margin: 0;
+}
+h1,  h3, h4, h5 {
+    text-align: center;
+    text-transform: uppercase;
+}
+h2 {
+    text-align: center;
+    text-transform: capitalize;
+}
+h1 {color: #444;}
+
+ h2 {
+    color: #34495e
+ }
+
+ h3, h4, h5 { color: blueviolet;}
+  
+p {
+    text-align: justify;
+    color: #333 ;
+} 
+ol {
+    list-style-type: none;
+    text-align: center;
+    padding: 0%;
+    margin-bottom: 20px;
+
+}
+ol li {
+    display: inline;
+    margin: 0 10px;
+}
+
+a { color: blueviolet;
+    text-decoration: wavy;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+    border-radius: 12px;
+    display: block;
+    margin: 10px auto;
+}
+p a { 
+    display: inline-block;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: cornflowerblue;
+    text-align: center;
+    
+}
+p {
+    text-align: center;
+   
+
+}
